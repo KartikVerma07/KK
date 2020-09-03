@@ -1,5 +1,3 @@
-# **Smart-Blind-Stick**
-
 ## **Idea:**
 There are many devices for visually impaired people. This project is also an attempt to develop an aid for visually impaired persons. This project is a smart stick which is capable of detecting any obstacle, detect water and corners and even allow the user to find the stick if anyhow missed by the user by pressing a remote switch. The device is designed with an intention to sort out common issues faced by the blind people while using traditional sticks.
 
